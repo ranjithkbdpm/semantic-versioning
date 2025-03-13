@@ -1,6 +1,6 @@
 {
   "name": "semantic-versioning",
-  "version": "0.1.0",
+  "version": "0.0.0-development",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -14,9 +14,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "commit": "cz",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "semantic-release": "semantic-release --branches main"
   },
   "eslintConfig": {
     "extends": [
@@ -35,5 +37,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ranjithkbdpm/semantic-versioning.git"
+  },
+  "devDependencies": {
+    "semantic-release": "^24.2.3"
   }
 }
