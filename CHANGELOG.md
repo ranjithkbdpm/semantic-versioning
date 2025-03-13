@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/ranjithkbdpm/semantic-versioning/compare/v1.2.0...v1.2.1) (2025-03-13)
+
+
+### Bug Fixes
+
+* fixing the release ([0086069](https://github.com/ranjithkbdpm/semantic-versioning/commit/0086069d16c373d931e2781b34c2202365be468a))
+
 # [1.2.0](https://github.com/ranjithkbdpm/semantic-versioning/compare/v1.1.1...v1.2.0) (2025-03-13)
 
 
